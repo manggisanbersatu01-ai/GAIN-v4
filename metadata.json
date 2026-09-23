@@ -1,0 +1,8 @@
+{
+  "name": " GAIN — Niaga Koin v.3",
+  "description": "GAIN — Niaga Koin v3.0: Institutional quantitative trading bot \u0026 algorithmic settlement vault with 100-layer matrix averaging and instant P2P transfer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
